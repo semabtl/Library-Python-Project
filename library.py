@@ -36,8 +36,7 @@ class Library:
         release_date = input("Release year:")
         number_of_pages = input("Number of pages:")
         new_book_information = book_name + "," + author + "," + release_date + "," + number_of_pages
-        self.books.append(new_book_information)
-        self.f.write(new_book_information)
+        self.f.write(new_book_information + "\n")
 
 # Kitap silmek için metod    
     def remove_book(self):
