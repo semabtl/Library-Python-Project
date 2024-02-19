@@ -16,6 +16,13 @@ Program ilk çalıştırıldığında oluşan çıktı:
 ![görsel3](Screenshots/3.png)
 
 
+3.seçenek seçildiğinde silinecek olan kitabın adı kullanıcıdan alınır ve kitap mevcutsa silinir, değilse uyarı verilir:
+
+![görsel6](Screenshots/6.png)
+
+![görsel7](Screenshots/7.png)
+
+
 Seçeneklerden farklı bir değer girildiğinde uyarı verilir:
 
 ![görsel4](Screenshots/4.png)
